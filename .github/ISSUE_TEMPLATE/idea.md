@@ -3,7 +3,7 @@ name: Idea
 about: Suggest an idea for CarrotQuest
 title: "[Game Idea]"
 labels: Idea
-assignees: ''
+assignees: HazDu, Flamy747
 
 ---
 

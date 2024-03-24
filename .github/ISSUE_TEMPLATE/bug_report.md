@@ -2,8 +2,8 @@
 name: Bug report
 about: Write reports on bugs you found to help us improve CarrotQuest
 title: "[BUG]"
-labels: bug, Idea
-assignees: ''
+labels: bug
+assignees: HazDu
 
 ---
 
