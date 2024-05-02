@@ -10,7 +10,7 @@ assignees: HazDu
 **Describe the bug**
 A description of what the bug is.
 
-**Reproduceing**
+**Reproducing**
 How to reproduce the bug. (if you know it)
 
 **Expected behavior**
